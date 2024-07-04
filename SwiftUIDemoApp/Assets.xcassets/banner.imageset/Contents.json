@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Spider-Man_ No Way Home 🕸️ en 2022 _ Avengers animados, Dibujos marvel, Spiderman dibujo.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
